@@ -7,8 +7,8 @@
 
 ## 📸 Preview
 <p align="center">
-  <a href="https://liquidnewtab.pages.dev">
-    <img src="https://github.com/user-attachments/assets/9e063499-5e94-4478-ae43-b485f941cdab"
+  <a href="https://liquidnewtab.nabellian.com">
+    <img src="<img width="1280" height="800" alt="1 - 영" src="https://github.com/user-attachments/assets/dffd3304-bab5-4433-8b48-eb9846fe9d03" />"
          alt="Liquid New Tab Preview"
          style="width: 100%; 
                 max-width: 748.5px; 
@@ -39,7 +39,7 @@ You can download the latest official release from the **Chrome Web Store**.
 If you encounter any issues, have questions, or want to suggest new features:
 
 <p align="left">
-  <a href="https://liquidnewtab.pages.dev/#support">
+  <a href="https://liquidnewtab.nabellian.com/#support">
     <img src="https://img.shields.io/badge/Support%20Center%20%E2%9E%A4-1d1d1f?style=for-the-badge&logoColor=white" height="36" alt="Support Center" />
   </a>
 </p>
