@@ -22,7 +22,7 @@
 * **Custom Adaptive Widgets:** Check weather forecasts across multiple cities, keep track of real-time news, and write notes all in one place.
 * **Liquid Intelligence:** An integrated AI assistant right on your new tab to help with translations, notification summaries, and instant Q&A.
 * **Flexible Customization:** Personalize your space with dynamic wallpapers, custom photos, and free widget arrangements.
-* **Google Calendar Widget (BETA / PRO):** Sign in with your Google account to check today's agenda instantly via the connected widget.
+* **Google Calendar Widget (PRO):** Sign in with your Google account to check today's agenda instantly via the connected widget.
 * **Liquid AI Search Widget:** Search for the latest and most relevant information faster and easier than ever with the next-gen AI search widget.
 
 ## 📥 Installation & Usage
