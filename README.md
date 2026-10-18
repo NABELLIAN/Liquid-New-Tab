@@ -8,14 +8,7 @@
 ## 📸 Preview
 <p align="center">
   <a href="https://liquidnewtab.nabellian.com">
-    <img src="<img width="1280" height="800" alt="1 - 영" src="https://github.com/user-attachments/assets/dffd3304-bab5-4433-8b48-eb9846fe9d03" />"
-         alt="Liquid New Tab Preview"
-         style="width: 100%; 
-                max-width: 748.5px; 
-                aspect-ratio: 748.5 / 488.5; 
-                object-fit: cover; 
-                display: block; 
-                margin: 0 auto;">
+    <img src="https://github.com/user-attachments/assets/8d5805b8-67fb-468a-97a2-9898db061769" alt="Liquid New Tab Preview" width="750" />
   </a>
 </p>
 
